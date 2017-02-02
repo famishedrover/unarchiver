@@ -1,6 +1,6 @@
 # py_unpack
 unarchive any .zip .rar etc 
-# R      :
+# Required      :
     python2
     patoolib
 # How-To-Get-Patool :
